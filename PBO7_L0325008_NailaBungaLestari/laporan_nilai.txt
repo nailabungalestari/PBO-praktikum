@@ -1,0 +1,11 @@
+============= LAPORAN NILAI MAHASISWA =============
+
+NIM: 001 | Nama: ANDI | Nilai: 90,00 | Grade: A | Status: LULUS
+NIM: 002 | Nama: CACA | Nilai: 100,00 | Grade: A | Status: LULUS
+NIM: 003 | Nama: LAZA | Nilai: 95,00 | Grade: A | Status: LULUS
+
+---------------- STATISTIK KELAS ----------------
+Jumlah mahasiswa : 3
+Rata-rata nilai  : 95,00
+Jumlah lulus     : 3
+Tidak lulus      : 0
