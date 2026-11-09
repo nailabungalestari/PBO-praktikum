@@ -1,0 +1,26 @@
+========================================
+         LAPORAN NILAI SISWA
+========================================
+
+Siswa ke-1
+Nama   : Andi
+Nilai  : 80.0
+Status : Lulus
+----------------------------------------
+Siswa ke-2
+Nama   : lati
+Nilai  : 90.0
+Status : Lulus
+----------------------------------------
+Siswa ke-3
+Nama   : caca
+Nilai  : 100.0
+Status : Lulus
+----------------------------------------
+
+             RINGKASAN NILAI
+========================================
+Rata-rata nilai kelas : 90.0
+Jumlah siswa lulus    : 3
+Jumlah siswa tidak lulus : 0
+========================================
